@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voicenews-reader/static/css/main.9d278e72.css",
+    "main.js": "/voicenews-reader/static/js/main.064dd6ff.js",
+    "index.html": "/voicenews-reader/index.html",
+    "main.9d278e72.css.map": "/voicenews-reader/static/css/main.9d278e72.css.map",
+    "main.064dd6ff.js.map": "/voicenews-reader/static/js/main.064dd6ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d278e72.css",
+    "static/js/main.064dd6ff.js"
+  ]
+}
